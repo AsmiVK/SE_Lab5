@@ -1,0 +1,21 @@
+************* Module inventory_system
+inventory_system.py:36:4: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:51:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:54:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:57:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:70:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:77:4: W0603: Using the global statement (global-statement)
+inventory_system.py:81:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:83:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:85:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:95:11: W0718: Catching too general exception Exception (broad-exception-caught)
+inventory_system.py:94:12: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:96:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:104:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:126:8: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:131:4: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+inventory_system.py:132:4: W1203: Use lazy % formatting in logging functions (logging-fstring-interpolation)
+
+------------------------------------------------------------------
+Your code has been rated at 8.05/10 (previous run: 7.44/10, +0.61)
+
